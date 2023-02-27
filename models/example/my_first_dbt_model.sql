@@ -22,6 +22,8 @@ from source_data
 
 /*
     Uncomment the line below to remove records with null `id` values
+
+    23566
 */
 
 -- where id is not null
